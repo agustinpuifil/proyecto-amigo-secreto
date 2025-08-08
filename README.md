@@ -8,6 +8,13 @@ Este proyecto fue desarrollado como parte del programa **Oracle Next Education (
 
 ---
 
+## Acceso a la Aplicación
+
+Puedes probar la aplicación en línea aquí:  
+[https://agustinpuifil.github.io/proyecto-amigo-secreto/](https://agustinpuifil.github.io/proyecto-amigo-secreto/)
+
+---
+
 ## Funcionalidades
 
 - **Agregar nombres a la lista:** Los usuarios pueden ingresar nombres de participantes, que se mostrarán automáticamente en una lista visible.
