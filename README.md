@@ -36,21 +36,3 @@ Este proyecto fue desarrollado como parte del programa **Oracle Next Education (
 6. Utiliza la opción de reinicio para comenzar un nuevo sorteo si lo deseas.
 
 ---
-
-## Posibles Mejoras Futuras
-
-- Implementar la funcionalidad para asignar automáticamente parejas de amigo secreto sin repeticiones.
-- Añadir soporte para exportar la lista de participantes y resultados del sorteo.
-- Mejorar la interfaz de usuario con animaciones y temas personalizables.
-- Integrar almacenamiento local para guardar la lista de participantes entre sesiones.
-- Adaptar la aplicación para dispositivos móviles con una experiencia optimizada.
-
----
-
-## Licencia
-
-Este proyecto se distribuye bajo la licencia [MIT](LICENSE). Puedes utilizar, modificar y distribuir este software de acuerdo a los términos de la licencia.
-
----
-
-**Desarrollado como parte del programa Oracle Next Education (ONE) en colaboración con Alura
