@@ -5,4 +5,4 @@
 ## Acceso a la Aplicación
 
 Puedes probar la aplicación en línea aquí:  
-[https://agustinpuifil.github.io/proyecto-amigo-secreto/](https://agustinpuifil.github.io/proyecto-amigo-secreto/)
+[https://arielpuifil.github.io/proyecto-amigo-secreto/](https://arielpuifil.github.io/proyecto-amigo-secreto/)
